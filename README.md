@@ -81,7 +81,7 @@ notebook to reproduce or update this table.*
 .
 ├── README.md
 ├── requirements.txt
-├── data/                          # place loan_data.csv here (not included, see below)
+├── data/                          
 ├── notebooks/
 │   └── loan_approval_analysis.ipynb
 ├── report/
